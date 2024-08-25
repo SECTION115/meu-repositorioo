@@ -1,0 +1,4 @@
+saudaçao = 'Seja bem vindo!'
+print('Digite o seu nome: ')
+nome = imput()
+print(saudaçao + nome)
